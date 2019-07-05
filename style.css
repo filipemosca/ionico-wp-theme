@@ -1,0 +1,17 @@
+/*
+Theme Name: Iônico
+Author: Filipe Mosca
+Description: Tema usado no site canalionico.com.br
+Version: 0.0.1
+Tags: simple
+*/
+
+.blog-nav li {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+  font-weight: 500;
+}
+.blog-nav li a {
+  color: #fff;
+}
